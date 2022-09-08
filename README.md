@@ -1,2 +1,0 @@
-# .github
-ADD : readme repository
