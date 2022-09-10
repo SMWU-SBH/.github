@@ -19,10 +19,10 @@
 
 |참여자|
 |------|
-|[jiw3026](https://github.com/jiw3026)|
 |[SyeonPark24](https://github.com/SyeonPark24)|
-|[hongjungin](https://github.com/hongjungin)|
 |[ssook1222](https://github.com/ssook1222)|
+|[Inha02](https://github.com/orgs/SMWU-SBH/people/Inha02)|
+|[hongjungin](https://github.com/hongjungin)|
 
 
 
