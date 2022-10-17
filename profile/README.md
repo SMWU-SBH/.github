@@ -4,7 +4,10 @@
 
 ![image](https://user-images.githubusercontent.com/60427387/189111994-b48a81e6-b8fc-4c8d-a7a6-a09b661b8551.png)
 
-`결과 자료 확인`
+`성과`   
+우수상 수상
+
+`결과 자료 확인`     
 [예선 보고서 확인하러 가기 😎 ](https://drive.google.com/file/d/1FoUn1snXwFfdcbgc908z4rJRQV7KmTNv/view)    
 [결선 발표자료 확인하러 가기 😉 ](https://drive.google.com/file/d/18ZJiaJXQUiiWBW6KAFcmT9Yhrm5LqeLs/view?usp=sharing)
 
@@ -33,4 +36,13 @@
 |[ssook1222](https://github.com/ssook1222)|
 |[Inha02](https://github.com/orgs/SMWU-SBH/people/Inha02)|
 |[sallyhan03](https://github.com/sallyhan03)|
+
+---
+
+### 사용한 분석 모델 및 통계 방법
+
+- 연관성 분석 : Crimer's V, CrossTab ~ Kai Square, T-Test
+- 예측 모델 : Logistic Regression, Decision Tree
+
+
 
